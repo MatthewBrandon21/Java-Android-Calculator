@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LectureAssignment01 - Brandon - 36391</string>
+    <string name="angka0">0</string>
+    <string name="angka1">1</string>
+    <string name="angka2">2</string>
+    <string name="angka3">3</string>
+    <string name="angka4">4</string>
+    <string name="angka5">5</string>
+    <string name="angka6">6</string>
+    <string name="angka7">7</string>
+    <string name="angka8">8</string>
+    <string name="angka9">9</string>
+    <string name="plusminus">+/-</string>
+    <string name="koma">,</string>
+    <string name="samadengan">=</string>
+    <string name="operatortambah">+</string>
+    <string name="operatorkurang">-</string>
+    <string name="operatorkali">X</string>
+    <string name="operatorbagi">/</string>
+    <string name="back">BACK</string>
+    <string name="c">C</string>
+    <string name="ce">CE</string>
+</resources>

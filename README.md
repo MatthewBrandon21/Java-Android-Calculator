@@ -1,2 +1,5 @@
+
 # Java Android Calculator
- Android Java
+
+Run on Android Studio and sync graddle
+
